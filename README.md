@@ -21,7 +21,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## project screenshot
 
-![screenshoot](https://github.com/anshitmishra/cricket-live-score/blob/main/image/Screenshot.png?raw=true)
+![screenshoot](https://raw.githubusercontent.com/anshitmishra/cricket-live-score/main/public/Screenshot.png)
 
 
 ## Learn More
