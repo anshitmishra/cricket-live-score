@@ -1,0 +1,81 @@
+.main {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    padding: 20px;
+    background-color: rgb(228, 243, 255);
+}
+.mainItem {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 10px;
+}
+.mainItem h2{
+    width: 100%;
+    opacity: .8;
+    padding: 10px;
+    margin: 10px auto;
+}
+.mainItem h2 span{
+    position: absolute;
+    right: 10px;
+    width: auto;
+    height: auto;
+    color: black;
+    opacity: .9;
+    font-size: 20px;
+}
+.mainItem button {
+    position: relative;
+    width: auto;
+    height: auto;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: royalblue;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.mainItemImage {
+    position: relative;
+    width: 100%;
+    height: auto;
+    max-width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+}
+.mainItemImage b{
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+    font-size: 50px;
+    margin: 0px 20px;
+}
+.mainItemImage img{
+    position: relative;
+    width: auto;
+    max-width: 150px;
+    height: auto;
+    display: inline-block;
+    object-fit: cover;
+}
+.mainItemDetails{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 10px auto;
+}
+.mainItemDetails p{
+    position: relative;
+    width: auto;
+    height: auto;
+    padding:5px 10px;
+    opacity: .8;
+}
